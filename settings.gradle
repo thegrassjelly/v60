@@ -1,0 +1,2 @@
+rootProject.name='V60 4-6'
+include ':app'
